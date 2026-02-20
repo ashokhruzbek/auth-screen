@@ -25,10 +25,11 @@ Login va Signup formasi - zamonaviy dizayn bilan.
 ├── style.js
 └── README.md
 ```
-
 ## 🔧 Ishga tushirish
-
-`index.html` faylini brauzerda oching.
+`index.html` faylini brauzerda oching.  
 ---
+## 🔗 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-black?style=for-the-badge)](https://auth-screen-eta.vercel.app/)
 
 ⭐ Loyiha yoqsa, star qo'ying!
